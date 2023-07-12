@@ -452,7 +452,7 @@ input[type="email"]{
 
     .option-secton{
         flex-direction: column;
-        width: 410px;
+        width: 370px;
         height: 630px;
         margin-top: 10px;
 
@@ -461,19 +461,23 @@ input[type="email"]{
         flex-direction: column;
     }
     .Flowers-box1,.Flowers-box2,.Flowers-box3{
-        width: 410px;
+        width: 370px;
         margin-bottom: 40px;
+        margin-left: 13px;
+
     }
 
     .header-section{
         flex-direction: column;
         text-align: center;
+        
     }
-    .header-conten{
-        width: 410px;
+    .header-conten,.flowers-like-conten {
+        width: 370px;
+        
     }
     .header-section .header-pic {
-        width: 410px;
+        width: 300px;
     }
 
     }
