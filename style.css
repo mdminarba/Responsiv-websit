@@ -409,6 +409,7 @@ input[type="email"]{
 
 
     @media screen and (max-width: 576px) { 
+
         
     main section{
         margin-top: 10px;
@@ -429,9 +430,10 @@ input[type="email"]{
         font-size: 30px;
     }
 
+
     /* bonus mobil responsip */
     .bonus{
-        height:600px;
+        height:700px;
         text-align: center;
         margin-bottom: 10px;
         
@@ -454,18 +456,30 @@ input[type="email"]{
         flex-direction: column;
         width: 370px;
         height: 630px;
-        margin-top: 10px;
+        margin-top: 20px;
 
     }
     .Flowers-item{
         flex-direction: column;
     }
+    .Featured-Flowers-section{
+    
+    }
+    .Featured-Flowers-titel,.Featured-Flowers-description{
+        width: 420px;
+    }
     .Flowers-box1,.Flowers-box2,.Flowers-box3{
-        width: 370px;
-        margin-bottom: 40px;
+        width: 420px;
         margin-left: 13px;
+        text-align: center;
+        margin-bottom: 20px;
 
     }
+    .Flowers-box1,.Flowers-box2,.Flowers-box3, h4{
+        margin-bottom: 20px;
+
+    }
+    
 
     .header-section{
         flex-direction: column;
@@ -473,7 +487,7 @@ input[type="email"]{
         
     }
     .header-conten,.flowers-like-conten {
-        width: 370px;
+        width: 300px;
         
     }
     .header-section .header-pic {
