@@ -470,7 +470,7 @@ input[type="email"]{
     }
     .Flowers-box1,.Flowers-box2,.Flowers-box3{
         width: 330px;
-        margin-left:32px;
+        margin-left:10px;
         text-align: center;
     
 
@@ -493,7 +493,7 @@ input[type="email"]{
         
     }
     .header-conten,.flowers-like-conten,.Instagram-conten,.Instagram-conten{
-        width: 370px;
+        width:350px;
         
     }
     .header-section .header-pic {
