@@ -416,14 +416,14 @@ input[type="email"]{
     }
                 
     .footer-section,.Latest-Deals-section{
-        max-width:420px;
+        max-width:370px;
         margin: auto;
     }
 
     /* Latest-Deals mobil responsip */
     
     input[type="email"]{
-        width: 330px;
+        width: 290px;
         margin-bottom: 10px;
     }
     .Latest-Deals-titel{
