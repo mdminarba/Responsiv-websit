@@ -454,7 +454,7 @@ input[type="email"]{
 
     .option-secton{
         flex-direction: column;
-        width: 420px;
+        width: 320px;
         height: 630px;
         margin-top: 20px;
 
@@ -466,14 +466,20 @@ input[type="email"]{
     
     }
     .Featured-Flowers-titel,.Featured-Flowers-description{
-        width: 420px;
+        width: 370px;
     }
     .Flowers-box1,.Flowers-box2,.Flowers-box3{
-        width: 420px;
+        width: 330px;
         margin-left:32px;
         text-align: center;
     
 
+   
+       
+    }
+    .Flowers-box1 img{
+        position: relative;
+        left: -6px;
     }
     .Flowers-box1,.Flowers-box2,.Flowers-box3, h4{
         margin-bottom: 20px;
@@ -486,12 +492,12 @@ input[type="email"]{
         text-align: center;
         
     }
-    .header-conten,.flowers-like-conten {
-        width: 420px;
+    .header-conten,.flowers-like-conten,.Instagram-conten{
+        width: 370px;
         
     }
     .header-section .header-pic {
-        width: 420px;
+        width: 370px;
     }
 
     }
